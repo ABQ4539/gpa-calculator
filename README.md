@@ -1,2 +1,2 @@
 # gpa-calculator
-A simple= GPA calculator program with Java
+A simple GPA calculator program with Java
